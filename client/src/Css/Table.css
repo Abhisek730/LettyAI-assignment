@@ -1,0 +1,18 @@
+.table {
+  background-color: brown;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+table,
+th,
+td {
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}

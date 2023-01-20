@@ -1,0 +1,13 @@
+.findUser {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #8e69da;
+  padding: 10px;
+}
+.find {
+  width: 300px;
+  background-color: rgb(187, 186, 97);
+  border-radius: 10px;
+}
